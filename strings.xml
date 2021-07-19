@@ -1,0 +1,30 @@
+<resources>
+
+        <string name="app_name">Toycathon</string>
+        <!--All the string resources come here including Questions and title -->
+        <string name="correct"><b>CORRECTNESS IS</b> \n
+						<b>%1$d</b> OUT OF 3</string>
+        <string name="true_text">Yes</string>
+        <string name="false_text">No</string>
+        <string name="correct_answer">That\'s correct</string>
+        <string name="wrong_answer">That\'s incorrect</string>
+        <string name="a">Is this the correct way to wash your car?</string>
+        <string name="b1">Does this image show us the right thing to do?</string>
+        <string name="c">Is it okay to bathe your pets in a public water body?</string>
+        <string name="prev_text">previous</string>
+        <string name="next_text">next</string>
+        <string name="str1">Once formed, lakes do not stay the same. Like people,
+        they go through different life stages—youth, maturity, old age, and death.</string>
+        <string name="str2">There are 117 million lakes on Earth, covering 3.7 percent of the continental land surface.</string>
+        <string name="str3">Lake Superior is the largest freshwater lake in the world by surface area.</string>
+        <string name="str4">Lakes contain mostly freshwater, though some are salty.</string>
+        <string name="str5">Lakes can form in interesting different ways such as in the craters
+        of volcanoes, by sinkholes in the ground, or even artificially by dams made by man.</string>
+        <string name="str6">The Dead Sea in Israel is the world\'s lowest lake at 1,371 feet below sea level</string>
+        <string name="str7">The highest lake in the world is Ojos del Salado at 20,965 feet high. It is
+        located in a crater in the Andes Mountains on the border between Chile and Argentina.</string>
+
+
+
+
+</resources>

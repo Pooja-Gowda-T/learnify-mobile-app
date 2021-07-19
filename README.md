@@ -1,1 +1,2 @@
-# learnify-mobile-app
+# Learnify-Balancing-the-imbalance-in-ecosystems-
+By Team Strikers (ID:15226)
